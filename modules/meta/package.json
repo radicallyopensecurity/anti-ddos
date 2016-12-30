@@ -1,0 +1,9 @@
+{
+  "author": "Joachim de Koning",
+  "name": "meta",
+  "description": "meta level module",
+  "version": "1",
+  "engines": {
+    "node": "*"
+  }
+}

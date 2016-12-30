@@ -1,0 +1,9 @@
+{
+  "author": "github.com/mysqljs/mysql",
+  "name": "mysql",
+  "description": "MySQL db connector",
+  "version": "1",
+  "engines": {
+    "node": "*"
+  }
+}

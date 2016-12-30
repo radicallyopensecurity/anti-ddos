@@ -1,0 +1,9 @@
+{
+  "author": "node-snmp-native",
+  "name": "snmp",
+  "description": "snmp connector",
+  "version": "1",
+  "engines": {
+    "node": "*"
+  }
+}

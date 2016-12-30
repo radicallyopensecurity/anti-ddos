@@ -1,0 +1,9 @@
+{
+  "author": "nodemailer-native",
+  "name": "smtp",
+  "description": "smtp mailer",
+  "version": "1",
+  "engines": {
+    "node": "*"
+  }
+}
