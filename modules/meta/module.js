@@ -2,12 +2,12 @@
  * module.js : meta -> module for top-level controller operations             *
  * Copyright © 2016 Joachim de Koning, Amadeus de Koning                      *
  *                                                                            *
- * See the LICENSE files at                                                   *
+ * This work is licensed under the GPLv3. See the LICENSE files at            *
  * the top-level directory of this distribution for the individual copyright  *
  * holder information and the developer policies on copyright and licensing.  *
  *                                                                            *
  * Unless otherwise agreed in a custom licensing agreement, no part of the    *
- * Waves software, including this file, may be copied, modified, propagated,  *
+ * this software, including this file, may be copied, modified, propagated,   *
  * or distributed except according to the terms contained in the LICENSE      *
  * file.                                                                      *
  *                                                                            *
